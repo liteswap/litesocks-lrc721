@@ -16,7 +16,7 @@ UnisocksController: [`0x05931D644063954f35AFa3dBefA4725b0ad79F85`](https://ether
 
 #### Requires [Python 3](https://www.python.org/download/releases/3.0/)
 
-1) Clone Uniswap
+1) Clone Liteswap
 
 ```bash
 git clone https://github.com/Uniswap/unisocks-erc721
